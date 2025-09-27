@@ -109,6 +109,7 @@ Cost-Benefit Analysis (Annual):
 └─ Job Creation Value: ₹500 crore additional economic activity
 ```
 
+```text
 🔄 **Technical Implementation Flow**
 Hardware Detection → Hidden Sector Unlock → Secure Wiping → Verification
 │                    │                    │              │
@@ -117,3 +118,4 @@ Hardware Detection → Hidden Sector Unlock → Secure Wiping → Verification
 │ scanning  │        │--dco-restore│      │sector wipe│  │certificate│
 │ smartctl  │        │Full capacity│      │O_DIRECT   │  │PDF + JSON │
 └─────────┘        └─────────────┘      └───────────┘  └───────────┘
+```
