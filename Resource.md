@@ -89,4 +89,17 @@ https://manuawasthi.in/pubs/systor2015.pdf
 --Central pollution board control guidences : https://cpcb.nic.in/ewaste/
 --BIS IT equipment standard : https://www.services.bis.gov.in:8071/php/BIS_2.0/dgdoccontent.php?department=ITD
 ```
+
+**Further changes and resources:** 
+```text
+https://linktr.ee/optimus0brime
+```
+**Prototype and Product:**
+```text
+https://github.com/optimus0brime/ZTX/
+```
+**Research papers and resource:**
+```text
+https://github.com/optimus0brime/ZTX/blob/main/Resource.md
+```
    
