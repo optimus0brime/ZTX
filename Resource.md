@@ -9,7 +9,10 @@ https://www.cs.auckland.ac.nz/~pgut001/pubs/secure_del.html
 https://manuawasthi.in/pubs/systor2015.pdf
 ```
 
-
+## Technology Evolution Strategy:
+```text
+https://github.com/optimus0brime/ZTX
+```
 
 **Market Feasibility Analysis:**
  ```text
