@@ -2,6 +2,9 @@
 Rust based Storage wiper with Alpine Linux base ISO
 
 ---
+```text
+Manual videos are in progress...
+```
 
 ## 🔐 Security Validation Process
 
