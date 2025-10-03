@@ -1,6 +1,6 @@
 # ZTX - C
 ---
-base prototype with TUI
+base prototype with TUI & GUI
 
 handle Prototypes with caution...
 
