@@ -1,5 +1,5 @@
 # ZTX
-Rust based Storage wiper with Alpine Linux base ISO
+builiding a Rust based Storage wiper with Alpine Linux base ISO
 
 ---
 ```text
